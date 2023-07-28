@@ -3,7 +3,7 @@ import { fetchCatByBreed } from './cat-api';
 
 import Notiflix from 'notiflix';
 import SlimSelect from 'slim-select';
-import 'slim-select/dist/SlimSelect.css';
+import 'slim-select/dist/slimselect.css';
 
 Notiflix.Notify.init({
   position: 'center-top',
